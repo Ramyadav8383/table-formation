@@ -1,0 +1,30 @@
+.table {
+    background-color: blue;
+    color: white;
+}
+
+.last {
+    background-color: aqua;
+}
+
+.ammma-rider {
+    background-color: lightsalmon;
+}
+
+.provider:hover {
+    background-color: aliceblue;
+}
+
+tr,
+th,
+td {
+    border: 2px solid gray;
+}
+
+th {
+    padding: 15px;
+}
+
+body {
+    font-family: cursive;
+}
